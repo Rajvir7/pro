@@ -1,6 +1,6 @@
 # pro
 
-git clone https://rajvir7.github.com/pro
+git clone https://rajvir7.github.io/pro/
 
 cd pro
 
